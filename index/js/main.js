@@ -76,6 +76,7 @@
         dots: false,
         loop: true,
         nav : true,
+        autoplayTimeout: 10000000,
         navText : [
             '<i class="bi bi-chevron-left"></i>',
             '<i class="bi bi-chevron-right"></i>'
