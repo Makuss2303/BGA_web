@@ -13,4 +13,4 @@
 
 
 ## BẢNG MỤC LỤC
-* Tạo một trang art cho học viên sử dụng format giống ở [đây](https://www.artsoupworkshop.com/portfolio.html)
+* Tạo một trang art trình bày sản phẩm của cho học viên sử dụng format giống ở [đây](https://www.artsoupworkshop.com/portfolio.html)
