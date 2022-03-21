@@ -10,7 +10,7 @@
 | STT | Họ tên | Email | Github |
 | :---: | --- | --- | --- |
 | 1 | Lê Huy Đạt | huydat2303@gmail.com | [Makuss2303](https://github.com/Makuss2303) |
-| 2 | Phạm Thái An | abc@gmail.com | [Anrakkie](https://github.com/Anrakkii) |
+| 2 | Phạm Thái An | abc@gmail.com | [Anrakkii](https://github.com/Anrakkii) |
 
 ## Phân công 
 * Tạo một trang art trình bày sản phẩm của học viên sử dụng format giống ở [đây](https://www.artsoupworkshop.com/portfolio.html)
