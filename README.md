@@ -17,7 +17,7 @@
   </a>
 </p>
 
-## GIỚI THIỆU NHÓM
+## THÀNH VIÊN
 | STT | Họ tên | Email | Github |
 | :---: | --- | --- | --- |
 | 1 | Lê Huy Đạt | huydat2303@gmail.com | [Makuss2303](https://github.com/Makuss2303) |
