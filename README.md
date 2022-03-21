@@ -12,6 +12,7 @@
 | 1 | Lê Huy Đạt | huydat2303@gmail.com | [Makuss2303](https://github.com/Makuss2303) |
 | 2 | Phạm Thái An | abc@gmail.com | [Anrakkie](https://github.com/Anrakkii) |
 
-## BẢNG MỤC LỤC
+## Phân công 
 * Tạo một trang art trình bày sản phẩm của học viên sử dụng format giống ở [đây](https://www.artsoupworkshop.com/portfolio.html)
 * Làm trang các khoá course ( trang này nè https://bgavntest.herokuapp.com/courses.html ) thay = hình nền background khác. Bố cục cũng khác luôn, cho nó không giống ở trang chủ, bố cục nó như thế nào thì tuỳ theo tính thảm mĩ của bạn, bạn nghĩ nó thế nào là đẹp nhất thì cứ làm.
+* Các nội dung, câu từ hiển thị ở các trang bạn làm phía trên cứ tự bịa là được
