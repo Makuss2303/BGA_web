@@ -11,6 +11,13 @@
 * 9, giữ y nguyên phản hồi học viên
 * 10, Chỉnh Footer, xóa Gallery và Sletter, Căt đuôi, Đưa Logo sang phải
 
+<p align="center">
+  <a href="https://bgavntest.herokuapp.com/index.html" title="BGA" style="border: none;">
+    <img src="https://i.imgur.com/red5QDf.png">
+  </a>
+</p>
+
 
 ## BẢNG MỤC LỤC
-* Tạo một trang art trình bày sản phẩm của cho học viên sử dụng format giống ở [đây](https://www.artsoupworkshop.com/portfolio.html)
+* Tạo một trang art trình bày sản phẩm của học viên sử dụng format giống ở [đây](https://www.artsoupworkshop.com/portfolio.html)
+* Làm trang các khoá course ( trang này nè https://bgavntest.herokuapp.com/courses.html ) thay = hình nền background khác. Mỗi trang có 
