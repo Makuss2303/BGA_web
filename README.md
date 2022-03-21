@@ -10,3 +10,7 @@
 * 8, Ảnh anh Nhân và Đồng nghiệp :)) + Profile bên phải
 * 9, giữ y nguyên phản hồi học viên
 * 10, Chỉnh Footer, xóa Gallery và Sletter, Căt đuôi, Đưa Logo sang phải
+
+
+## BẢNG MỤC LỤC
+* Tạo một trang art cho học viên sử dụng format giống ở [đây](https://www.artsoupworkshop.com/portfolio.html)
